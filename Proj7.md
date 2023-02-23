@@ -131,3 +131,7 @@ Mount lv-opt on  /mnt/opt
 - Update the website’s configuration to connect to the database (in /var/www/html/functions.php file). Apply tooling-db.sql script to your database using this command 
 
 ![alt text](./images/19%20fucntion%20php.png)
+
+- Open the website in your browser http://<Web-Server-Public-IP-Address-or-Public-DNS-Name>/index.php
+
+![alt text](./images/webpage.png)
